@@ -12,7 +12,7 @@ Proposed Features:
 Login/Signup.
 List of job opportunities available.
 Search jobs based on their locations,industry and keywords.
-Applydirectlyfor jobs according to their requirements and benefits.
+Apply directly for jobs according to their requirements and benefits.
 Set up job alerts based on their preferences. 
 
 Tech Stack: 
